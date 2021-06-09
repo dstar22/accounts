@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mindful-backup-282922",
+  "private_key_id": "b90f6449e7eda674d82b0d77207dd6319520698c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1EbditDZuedhr\nOWb90xaz3LHSjgJOK3qNYnw9eTIuPaOMoUNPABbtgaYL9RYh2HsTuotTX3K6o6cF\nnfZ4HDn1Xriy1OrUATfRz/Nqvzc0WXw8bRFKDZjBygnXe5pfW9B1XyR5L8MNAl5G\nZifD/c+GfsoEFBjOfk8SNuSPpPryOEMSWupZK4j560gO6tg+2FvanUgePzsFcp6R\n5BV5own+HSOT1Npo6dyOex1Mvv3ZnYlJYZAlKpoY8R7bwupylCpSNnDEAyHfdYZQ\njYmgF4YiuvFoA0C/K4jLkbx2A8W53O9bXyCZFolB34iDcE2W2HKF58bUONMdhNUk\nhc54Obt7AgMBAAECggEAWS7+M+wOaVCzY3C1BS0s3+9CWLJgeU8aADxzdDXXHQZ4\nIUKmq+kf4eC7P+V5/rapPFjj2e9Hy5zinbYlmRhSBcSfVVngxgZJj5qMytWe47Z1\npi+UVfSnej/ApDV5niFTZhQ0G0qGmEhD1gnn6TWAuz6E0whxBXgaCx8laYj5n0Z5\nwxJyckf+J3z18N88xynwzs2CBbbr33akcnrPKpJe4N9hNMmXIKxgPtCBm41DoLpQ\nvaz0/Jkg4AyNTdP+WPI8YxiffcuG/X4VZYZ/faOwJvVN4TThwION8GYXEoyhAszy\nTaw4ZJHGjQIT+tBblHqwjQZtNXGd4A4LBuCpQQIciQKBgQDcA1B0RFI2gFlegMI2\n8TldXAS+1THJk3bh0lOoVXRIyB8vRymThWSrQDesBC1tgeqqV0UjwZ8BZ2MiczmP\nqrg4yjf8cUcoTbOdUA6OVcHl4v/otDW4suvnaiTtFCK31FP+/wgAYVSE9BO6zdvp\npOle8tmgYSBEwMtsuGpLbTBpOQKBgQDSr7IrFSqoAgl/FCKU649QtuTCiRj6Snjq\nqYvihF/Jb+ZwZfImioqbIL42/PlR9aK8bmhlAD1gObGx+72MoDV0ehJM42YJBK1X\nutxv7CzrT+jd8ZjXCesf95/5tSFfPRw/V4a0q7xMPMGDdnDAJB4O0HWJjI8VEXli\n7UsponqOUwKBgDdLYfIGpb7q3QsiQy15zNgI42xuuneV5z/0E3BwIayVFzlTokBg\nOx/LIPLLjftCto6fJlJJPEQnDsQ+v027M1eagx2f/qlDdgvobfAZ34R+W6DJgeLs\nnNtpUuR+tgcLhxzETeeCjrJngXnmeQmsl7Z0RHvJTUnaRoYJhzVzuMIJAoGBALWP\nfU3NTtY78y0VD/wfx4B6LEdM2D6RQQSQmaDaDKXODdrcr8Hw8CNhIyrF9KFhuh0C\nVGp9u2aaMXy9AYsXYRmAPRcPfBXXdv48ZMz6zXb3hSkGk3z06i/BOJZ7NkgZpKcd\naVN3D6zvSqBcyCt8tH51vGSNwZwZU+8hqP03LMBLAoGAIHwp8V07GLOGZGod3SQr\nMf6xRKeqOKF4VDNR3LR9dQgxOQHLmM4MTVVC/qN/vVNpgy7EE7W6t5OxT2XoQGvR\nfLp1q0YXZSol2+OW3O6xhmq8YhFnr4rOsr2Ns5RXpNwBwu5k77obLFav3jhZJSyA\nJ5aF9Vq3IdINEnz4EMdbOkY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-02b9zj4ktrt9d8j42jt-yafno6@mindful-backup-282922.iam.gserviceaccount.com",
+  "client_id": "105040271516213998782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-02b9zj4ktrt9d8j42jt-yafno6%40mindful-backup-282922.iam.gserviceaccount.com"
+}
